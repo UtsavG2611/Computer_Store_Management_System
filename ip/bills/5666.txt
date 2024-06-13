@@ -1,0 +1,16 @@
+	 Welcome To Computer store
+ Bill Number:5666
+ Customer Name:pandu
+ Phone Number:9898989898
+ Customer Email:pandu@gmail.com
+============================================
+ Products			QTY	Price
+============================================
+ Dell XPS 15		3		608967
+ SSD		10		100000
+
+ ==============================================
+ Sub Amount:			Rs.708967.00
+ Tax Amount:			Rs.6989.67
+ Total Amount:			Rs.715956.67
+ ==============================================
